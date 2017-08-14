@@ -1,2 +1,2 @@
-FROM appsvc/php:latest_1707171641
+FROM nginx
 EXPOSE 80
